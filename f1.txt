@@ -3,5 +3,7 @@
 void main(){
 
 	printf("나는 빡빡이다");
+	
+	printf("나도 빡빡이다");
 
 }
