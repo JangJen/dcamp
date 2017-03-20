@@ -6,4 +6,6 @@ void main(){
 	
 	printf("나도 빡빡이다");
 
+	printf("나만 빡빡인데");
+
 }
