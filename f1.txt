@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+void main(){
+
+	printf("나는 빡빡이다");
+
+}
