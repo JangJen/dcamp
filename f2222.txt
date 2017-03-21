@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+void main(){
+
+	printf("나는 빡빡이다");
+	
+	printf("나도 빡빡이다");
+
+	printf("나만 빡빡인데");
+
+}
